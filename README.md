@@ -1,10 +1,7 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
-</p>
-
 ## Description
+Test task for humanity  with possibility to build api gateway/lambda environment (just one).
+Currently is running on Lambda https://1wmeqz40o5.execute-api.eu-west-2.amazonaws.com/test/api/#/ linkt to swagger (need some time till it will wake up).
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. 
 
 ## Installation
 
